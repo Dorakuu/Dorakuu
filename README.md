@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Doraku 👋</h1>
 <h3 align="center">A passionate software engineer living in Canada, I primarily work with the Java programming language and have 6 years of experience.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rainnny7&label=Profile%20views&color=0e75b6&style=flat" alt="rainnny7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dorakuu&label=Profile%20views&color=0e75b6&style=flat" alt="Dorakuu" /> </p>
 
 - 🔭 I’m currently working on [Soda](https://github.com/Soda-App)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://rainnny.club](https://rainnny.club)
+- 👨‍💻 All of my projects are available at [https://Dorakuu.club](https://Dorakuu.club)
 
-- 📫 How to reach me **braydonrainnny@gmail.com**
+- 📫 How to reach me **Dorakuu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,6 @@
 
 <div>
   &nbsp;
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainnny7&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="rainnny7" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rainnny7&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rainnny7" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dorakuu&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Dorakuu" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dorakuu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Dorakuu" /></p>
 </div>
