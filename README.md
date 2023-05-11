@@ -23,6 +23,6 @@
 
 <div>
   &nbsp;
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dorakuu&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Dorakuu" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dorakuu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Dorakuu" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dorakuu&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="Dorakuu" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dorakuu&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="Dorakuu" /></p>
 </div>
