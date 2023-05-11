@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Doraku 👋</h1>
-<h3 align="center">A passionate software engineer living in Canada, I primarily work with the Java programming language and have 6 years of experience.</h3>
+<h3 align="center">A passionate software engineer living in UK, I primarily work with the Java programming language and have 4 years of experience.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dorakuu&label=Profile%20views&color=0e75b6&style=flat" alt="Dorakuu" /> </p>
 
 - 🔭 I’m currently working on [Soda](https://github.com/Soda-App)
@@ -23,6 +23,6 @@
 
 <div>
   &nbsp;
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dorakuu&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="Dorakuu" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dorakuu&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="Dorakuu" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dorakuu&show_icons=true&theme=react&hide_border=true&locale=en&layout=compact" alt="Dorakuu" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dorakuu&show_icons=true&theme=react&hide_border=true&locale=en" alt="Dorakuu" /></p>
 </div>
